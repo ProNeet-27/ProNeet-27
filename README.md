@@ -13,6 +13,6 @@
 - ⭐ Github Star ⭐ 
 - 📲 Mobile developer
 - 🎥 Grupo de whatsapp [Youtube](https://youtube.com/aristidevs?sub_confirmation=1) (+600 Miembros)
-- 📗 Autor de la Página [ProNeet VPN.](https://descargar.proneet.org)
+- 📗 Autor de la Página [ProNeet VPN.](https://descarga.proneet.org)
 - 🧑‍🏫 Creador de [ProNeet VPN](https://github.com/ProNeet-27/ProNeet-VPN/releases/download/v1.0/ProNeet.VPN.apk)
 <br>
