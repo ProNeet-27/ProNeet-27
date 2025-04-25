@@ -3,7 +3,7 @@
 </div>
 <img src="banner.png">
 
-[![Página de Facebook]([https://img.shields.io/youtube/channel/subscribers/UCIjEgHA1vatSR2K4rfcdNRg?style=social](https://img.shields.io/badge/Facebook-3D82ED?style=for-the-badge&logo=facebook&logoColor=white))](https://youtube.com/aristidevs?sub_confirmation=1)
+[![Página de Facebook](https://img.shields.io/youtube/channel/subscribers/UCIjEgHA1vatSR2K4rfcdNRg?style=social)(https://youtube.com/aristidevs?sub_confirmation=1)
 [![GitHub followers](https://img.shields.io/github/followers/ProNeet-27?style=social)](https://github.com/ArisGuimera)
 ![Discord Shield](https://discordapp.com/api/guilds/807719549075980308/widget.png?style=shield)
 
