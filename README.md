@@ -3,7 +3,7 @@
 </div>
 <img src="banner.png">
 
-[![Página de Facebook](https://img.shields.io/badge/Facebook-3D82ED?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/ProNeet27)
+[![Página de Facebook](https://img.shields.io/badge/Facebook-blue?logo=facebook)](https://facebook.com/ProNeet27)
 [![GitHub followers](https://img.shields.io/github/followers/ProNeet-27?style=social)](https://github.com/ProNeet-27)
 ![Discord Shield](https://discordapp.com/api/guilds/807719549075980308/widget.png?style=shield)
 
