@@ -4,7 +4,7 @@
 <img src="banner.png">
 
 [![Página de Facebook](https://img.shields.io/youtube/channel/subscribers/UCIjEgHA1vatSR2K4rfcdNRg?style=social)](www.facebook.com/ProNeet27)
-[![GitHub followers](https://img.shields.io/github/followers/ProNeet-27?style=social)](https://github.com/ArisGuimera)
+[![GitHub followers](https://img.shields.io/github/followers/ProNeet-27?style=social)](https://github.com/ProNeet-27)
 ![Discord Shield](https://discordapp.com/api/guilds/807719549075980308/widget.png?style=shield)
 
 ## Sobre mi
