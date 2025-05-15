@@ -1,5 +1,5 @@
 <div align="center">
-<h1 align="center">Hola, soy <a href="https://descarga.proneet.org/">ProNeet</a> 👋</h1>
+<h1 align="center">Hola, soy <a href="https://app.proneet.org/">ProNeet</a> 👋</h1>
 </div>
 <img src="banner.png">
 
@@ -13,7 +13,7 @@
 
 - 📲 Mobile developer
 - 🔧 Desarrollador de apps VPN personalizadas
-- 👨‍👩‍👧‍👦 Grupo de [Whatsapp](https://chat.whatsapp.com/GoKO7anWUlO0AcCgWbJXOS) (+650 Miembros)
-- 📗 Autor de la Página [ProNeet VPN.](https://descarga.proneet.org)
-- 🧑‍🏫 Creador de la Aplicacion [ProNeet VPN](https://github.com/ProNeet-27/ProNeet-VPN/releases/download/1.2.1/ProNeet.VPN.v1.2.1.apk)
+- 👨‍👩‍👧‍👦 Grupo de [Whatsapp](https://chat.whatsapp.com/GoKO7anWUlO0AcCgWbJXOS) (+600 Miembros)
+- 📗 Autor de la Página [ProNeet VPN.](https://app.proneet.org)
+- 🧑‍🏫 Creador de la Aplicacion [ProNeet VPN](https://github.com/ProNeet-27/ProNeet-VPN/releases/download/v1.2.5/ProNeet.VPN.v1.2.5.apk)
 <br>
