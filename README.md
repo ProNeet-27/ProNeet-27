@@ -15,5 +15,5 @@
 - 🔧 Desarrollador de apps VPN personalizadas
 - 👨‍👩‍👧‍👦 Grupo de [Whatsapp](https://chat.whatsapp.com/GoKO7anWUlO0AcCgWbJXOS) (+600 Miembros)
 - 📗 Autor de la Página [ProNeet VPN.](https://app.proneet.org)
-- 🧑‍🏫 Creador de la Aplicacion [ProNeet VPN](https://github.com/ProNeet-27/ProNeet-VPN/releases/download/v11.27/ProNeet.VPN.v11.27.apk)
+- 🧑‍🏫 Creador de la Aplicacion [ProNeet VPN](https://github.com/ProNeet-27/ProNeet-VPN/releases/download/v27.11/ProNeet.VPN.v27.11.apk)
 <br>
